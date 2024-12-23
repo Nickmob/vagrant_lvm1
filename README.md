@@ -10,4 +10,4 @@ vagrant halt
 vagrant destroy
 ```
 
-Стенд протестирован на VirtualBox 7.0.12, Vagrant 2.4, хостовая система: Ubuntu 22.04.
+Стенд протестирован на VirtualBox 7.1.4, Vagrant 2.4.3, хостовая система: Ubuntu 24.04.
